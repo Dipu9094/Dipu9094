@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dipu sultan. I am from Bangladesh. 
-- +Probler Solver
+- +Problem Solver
 - +Mern-Stack-Developer
 - Mail: dipusultan090@gmail.com
 <!---
